@@ -1,9 +1,13 @@
-- First-prize Academic Scholarship, 2023.
+- Outstanding Graduates of Liaoning Province, 2020.
 
-- Freshman Academic Scholarship, 2022.
+- First Class Scholarship, 2018,2019.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- National Scholarship, 2019.
 
-- First-prize Enterprise Scholarship, 2021.
+- Off-Campus Board Scholarship, 2019
 
-- First-prize Academic Scholarship, 2019.
+- Off-Campus Board Scholarship, 2018,2019.
+
+- Top Ten Students, 2019.
+
+- Siemens Smart Challenge Eastern Province Grand Prize/National Second Prize, 2018.

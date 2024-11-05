@@ -1,15 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ziqi Yu](https://img.shields.io/badge/Ziqi_Yu-github-blue?logo=github)](https://github.com/Rambo960516)
 
 asas
 #### Email
-sli[at]cumt.edu.cn
+ziqi_yu516[at]outlool.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Engineering Electronics, South China University of Technology, 2021—2024.\
+B.E., Automation, University of Science and Technology Liaoning, 2014—2015,2017-2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+UAV Controller Design, Tandem Ducted Fan UAV, Control Theory and Application.
 
